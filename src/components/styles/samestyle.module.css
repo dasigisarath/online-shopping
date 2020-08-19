@@ -1,0 +1,12 @@
+.divstyle {
+  font-family: fantasy;
+  color: orange;
+  font-size: larger;
+}
+
+.container {
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
